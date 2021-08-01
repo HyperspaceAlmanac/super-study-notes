@@ -1,7 +1,7 @@
 # super-study-notes
 ## Introduction
 While studying to get CompTIA Security+ and Linux+ certifications, I kept on coming up with ideas on how to do it more efficiently.
-I feel that a lot of the note applications are kind of primitive, and that diagrams and visuals can really help
+I feel that a lot of the note taking applications are kind of primitive, and that diagrams and visuals can really help
 with the learning process.
 
 Key feature will be to allow the users to attach tags to sections of the notes and to be able to quickly display
