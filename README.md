@@ -16,7 +16,7 @@ This will be a portfolio project. I am planning on using FlaskAlchemy + sqlite f
 ## Initial Planned Features
 Easy to use hierarchical tag system
 
-Visualization of the hiearchical tag
+Visualization of the hierarchical tag
 
 Flash card system using the tags
 
